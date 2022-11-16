@@ -9,11 +9,6 @@ Para correr el proyecto se debe ejecutar el archivo main.py
 
 Primera Instancia
 
-NSGA
-MOACS
-
- 
-
 <br>  Evaluacion
 <h3> NSGA </h3>
 <br> Distancia al frente Pareto:  30121.190062433332
@@ -25,6 +20,20 @@ MOACS
 <br>M2 promedio:  8.107246376811593
 <br>M3 promedio:  64295.11100621791
 <br>Error promedio:  0.7085714285714285
+
+Secunda Instancia
+
+<br>Evaluacion
+<h3>NSGA</h3>
+<br>Distancia al frente Pareto:  11048.773776533588
+<br>Distribución del frente Pareto:  3.12
+<br>Extensión del frente Pareto:  246.90738690236253
+<br>Error:  1.0
+<h3>MOACS</h3>
+<br>M1 promedio:  10071.847772507552
+<br>M2 promedio:  10.798601398601397
+<br>M3 promedio:  100413.25625838686
+<br>Error promedio:  0.74491341991342
 
 <h1> Integrantes: </h1>
 - Ricardo Leguizamon
