@@ -1,7 +1,7 @@
 <h2> Requerimientos: </h2>
 PANDAS, MATPLOTBLIB, PYTHON 3.9 
 <h2> Correr el programa: </h2>
->python3 main.py
+` python3 main.py `
 <b> <h1> tsp-nsga-moacs </h1> </b>
 Una implementacion en Python para el Travel Salesman Problem (TSP) resuelto con Non-dominated Sorting Genetic Algorithm (NSGA) y Multi-Objective Ant Colony System (MOACS).
 Fue desarrollado con Python 3.9. Se deben instalar las librerias pandas, numpy y matplotlib con pip.
