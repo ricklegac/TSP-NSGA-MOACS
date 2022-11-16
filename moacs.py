@@ -147,7 +147,7 @@ class Hormiga:
         self.costos_camino = [[], []]
 
     def construir_camino_sin_feromonas(self):
-        self.camino = []  # erase previous path
+        self.camino = []  
         for i in range(len(self.costos_camino)):
             self.costos_camino[i] = 0
 
