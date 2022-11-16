@@ -4,5 +4,7 @@ Fue desarrollado con Python 3.9. Se deben instalar las librerias pandas, numpy y
 Para correr el proyecto se debe ejecutar el archivo main.py
 
 Integrantes:
-- Ivan Vera
-- Jose Luis Benitez
+- Ricardo Leguizamon
+- Diego Seo
+- Lorenzo Cabrera
+
