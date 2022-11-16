@@ -9,19 +9,18 @@ NSGA
 MOACS
 
  
-Warning
-Figures now render in the Plots pane by default. To make them also appear inline in the Console, uncheck "Mute Inline Plotting" under the Plots pane options menu.
- Evaluacion
-NSGA
-Distancia al frente Pareto:  30121.190062433332
-Distribución del frente Pareto:  4.166666666666667
-Extensión del frente Pareto:  268.8950561049837
-Error:  1.0
-MOACS
-M1 promedio:  10054.762689575575
-M2 promedio:  8.107246376811593
-M3 promedio:  64295.11100621791
-Error promedio:  0.7085714285714285
+
+<br>  Evaluacion
+<h3> NSGA </h3>
+<br> Distancia al frente Pareto:  30121.190062433332
+<br>Distribución del frente Pareto:  4.166666666666667
+<br>Extensión del frente Pareto:  268.8950561049837
+<br>Error:  1.0
+<h3>MOACS </h3>
+<br>M1 promedio:  10054.762689575575
+<br>M2 promedio:  8.107246376811593
+<br>M3 promedio:  64295.11100621791
+<br>Error promedio:  0.7085714285714285
 
 <h1> Integrantes: </h1>
 - Ricardo Leguizamon
