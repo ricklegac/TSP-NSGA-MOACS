@@ -7,7 +7,7 @@ Una implementacion en Python para el Travel Salesman Problem (TSP) resuelto con 
 Fue desarrollado con Python 3.9. Se deben instalar las librerias pandas, numpy y matplotlib con pip.
 Para correr el proyecto se debe ejecutar el archivo main.py
 
-Primera Instancia
+<h2>Primera Instancia</h2>
 
 <br>  Evaluacion
 <h3> NSGA </h3>
@@ -21,7 +21,7 @@ Primera Instancia
 <br>M3 promedio:  64295.11100621791
 <br>Error promedio:  0.7085714285714285
 
-Secunda Instancia
+<h2>Secunda Instancia</h2>
 
 <br>Evaluacion
 <h3>NSGA</h3>
