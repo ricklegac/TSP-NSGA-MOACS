@@ -1,5 +1,5 @@
 <h2> Requerimientos: </h2>
-PANDAS, MATPLOTBLIB, PYTHON 3.9 
+PANDAS, MATPLOTBLIB -> PYTHON 3+
 <h2> Correr el programa: </h2>
 ` python3 main.py `
 <b> <h1> tsp-nsga-moacs </h1> </b>
