@@ -8,12 +8,16 @@ import matplotlib.pyplot as plt
 
 
 # Inicializar parametros
+"""
+m = numero de hormigas
+q0 = probabilidad de exploracion o explotacion
+"""
 max_iter = 20
-beta = 0.10         # Beta
-m = 20              # Número de Hormigas
-ciudades = []       # Las ciudades
-q0 = 0.6            # Probabilidad de exploracion o explotacion
-tau0 = 0.1*10**-20         # Tau subcero
+beta = 0.10
+m = 20
+ciudades = []
+q0 = 0.6
+tau0 = 0.1*10**-20        
 rho = 0.02
 n = 0
 
